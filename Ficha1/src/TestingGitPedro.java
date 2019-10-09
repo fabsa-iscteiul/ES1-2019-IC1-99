@@ -8,7 +8,7 @@ public class TestingGitPedro {
 		Scanner x = new Scanner(System.in);
 		System.out.println("Nome: ");
 		String nome = x.nextLine();
-		System.out.println("Bem-vindo " + nome);
+		System.out.println("Bem-vindo " + nome + "!");
 		x.close();
 	}
 	
