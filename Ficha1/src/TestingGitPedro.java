@@ -10,6 +10,7 @@ public class TestingGitPedro {
 		String nome = x.nextLine();
 		System.out.println("Bem-vindo " + nome + "!");
 		x.close();
+		
 	}
 	
 }
