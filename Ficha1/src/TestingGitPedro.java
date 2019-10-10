@@ -8,6 +8,9 @@ public class TestingGitPedro {
 		Scanner x = new Scanner(System.in);
 		System.out.println("Nome: ");
 		String nome = x.nextLine();
+		System.out.println("Idade: ");
+		int age = x.nextInt();
+		
 		System.out.println("Bem-vindo " + nome + "!");
 		x.close();
 		
