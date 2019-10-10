@@ -11,6 +11,7 @@ public class TestingGitPedro {
 		System.out.println("Idade: ");
 		int age = x.nextInt();
 		
+		
 		System.out.println("Bem-vindo " + nome + "!");
 		x.close();
 		
